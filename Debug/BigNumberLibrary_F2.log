@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  BigNumbersLib.cpp
+c:\users\feng\source\repos\bignumberlibrary_f2\bignumberlibrary_f2\bignumberslib.cpp(23): warning C4018: '<': signed/unsigned mismatch
+c:\users\feng\source\repos\bignumberlibrary_f2\bignumberlibrary_f2\bignumberslib.cpp(25): warning C4018: '<': signed/unsigned mismatch
+c:\users\feng\source\repos\bignumberlibrary_f2\bignumberlibrary_f2\bignumberslib.cpp(92): warning C4018: '<': signed/unsigned mismatch
+c:\users\feng\source\repos\bignumberlibrary_f2\bignumberlibrary_f2\bignumberslib.cpp(94): warning C4018: '<': signed/unsigned mismatch
+c:\users\feng\source\repos\bignumberlibrary_f2\bignumberlibrary_f2\bignumberslib.cpp(180): warning C4018: '<': signed/unsigned mismatch
+c:\users\feng\source\repos\bignumberlibrary_f2\bignumberlibrary_f2\bignumberslib.cpp(182): warning C4018: '<': signed/unsigned mismatch
+c:\users\feng\source\repos\bignumberlibrary_f2\bignumberlibrary_f2\bignumberslib.cpp(234): warning C4018: '<': signed/unsigned mismatch
+c:\users\feng\source\repos\bignumberlibrary_f2\bignumberlibrary_f2\bignumberslib.cpp(236): warning C4018: '<': signed/unsigned mismatch
+c:\users\feng\source\repos\bignumberlibrary_f2\bignumberlibrary_f2\bignumberslib.cpp(271): warning C4018: '<': signed/unsigned mismatch
+c:\users\feng\source\repos\bignumberlibrary_f2\bignumberlibrary_f2\bignumberslib.cpp(290): warning C4018: '<': signed/unsigned mismatch
+  BigNumberLibrary_F2.vcxproj -> C:\Users\Feng\source\repos\BigNumberLibrary_F2\Debug\BigNumberLibrary_F2.lib
